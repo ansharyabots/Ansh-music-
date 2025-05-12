@@ -1,14 +1,14 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
+<h1 align="center">🎵 Arya Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
+  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Arya Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/TeamAviax/AviaxMusic?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/TeamAviax/AviaxMusic?style=for-the-badge&color=green" alt="GitHub license">
+  <img src="https://img.shields.io/github/stars/TeamArya/AryaMusic?style=for-the-badge&color=blue" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/TeamArya/AryaMusic?style=for-the-badge&color=blue" alt="GitHub forks">
+  <img src="https://img.shields.io/github/issues/TeamArya/AryaMusic?style=for-the-badge&color=red" alt="GitHub issues">
+  <img src="https://img.shields.io/github/license/TeamArya/AryaMusic?style=for-the-badge&color=green" alt="GitHub license">
 </p>
 
 <h2 align="center">Delivering Superior Music Experience to Telegram</h2>
@@ -19,7 +19,7 @@
 
 Due to YouTube blocking VPS IPs drastically, we have implemented a fix. Follow the steps below:
 
-1. **Join our Support Group**: Type `#script` in our [support group](https://t.me/NexGenSpam) to get the necessary script.
+1. **Join our Support Group**: Type `#script` in our [support group](https://t.me/+MDEBgsIKQvFiMDZl) to get the necessary script.
 2. **Run the Script**: Run the downloaded script on your Windows Desktop Through VS Code or any other Software to generate cookies.
 3. **Fork the Repository**: Fork this repository to your GitHub account.
 4. **Add Cookies**: Paste the generated cookies into the `cookies` folder in your forked repository.
@@ -35,7 +35,7 @@ If you do not want to deal with YouTube restrictions, you can rely on our API fo
 ### How to Get an API Key
 To use the API, you need an API key. Follow these steps to obtain one:
 
-1. **DM on Telegram**: Contact the bot admin on Telegram at [Rahul](https://t.me/RahulTC) to request an API key.
+1. **DM on Telegram**: Contact the bot admin on Telegram at [Ansh](https://t.me/Innocentboyansh) to request an API key.
 2. **Free Plan**: New users can request **Free Plan** with a 1,000 song request limit to the API. Simply mention "I want a free Plan" in my DM, and I will provide a API key (Need to renew it monthly).
 3. **Choose a Plan**: After the trial (or if you want a higher limit), select a plan based on your song request limit needs (all prices are in INR, on a **monthly basis**):
    - **5,000 Song Requests Daily**: ₹9/month
@@ -48,7 +48,7 @@ To use the API, you need an API key. Follow these steps to obtain one:
 ### Important Notes About API Usage
 - **Daily Reset**: The song request limit resets daily at midnight (IST). For example, if you have a 5,000 song request limit, you can request up to 5,000 songs each day.
 - **Audio Only**: The API provides audio streaming only. If you need video play support, you must add cookies as described in the section above.
-- **Support**: If you face any issues with the API or need help with integration, join our [support group](https://t.me/NexGenSpam) and ask for assistance.
+- **Support**: If you face any issues with the API or need help with integration, join our [support group](https://t.me/+MDEBgsIKQvFiMDZl) and ask for assistance.
 
 ---
 
